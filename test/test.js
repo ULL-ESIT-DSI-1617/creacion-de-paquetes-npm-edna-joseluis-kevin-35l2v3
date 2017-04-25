@@ -1,5 +1,5 @@
-// var Shape = require('../shapesarea.js');
-  var Shape = require('../lib/shape.js');
+'use strict'
+var Shape = require('../lib/shape.js');
 
 
 describe("Shape", function(){

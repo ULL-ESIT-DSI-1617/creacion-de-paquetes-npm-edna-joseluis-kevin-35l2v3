@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3.git"
+    "url": "git@github.com:ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3.git"
   },
-  "author": "kevin-joseluis-edna",
-  "license": "ISC",
+  "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3/issues"
   },

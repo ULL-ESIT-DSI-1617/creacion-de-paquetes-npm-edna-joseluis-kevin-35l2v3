@@ -1,7 +1,9 @@
 {
   "name": "@ull-edna-joseluis-kevin-35l2/ull-shape",
   "version": "1.0.0",
-  "bin": { "get-area" : "./bin/get-area.js" },
+  "bin": {
+    "get-area": "./bin/get-area.js"
+  },
   "description": "ull-shape",
   "main": "index.js",
   "scripts": {
@@ -19,6 +21,7 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3#readme",
   "dependencies": {
+    "gulp": "^3.9.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.3.0",
     "should": "^11.2.1",

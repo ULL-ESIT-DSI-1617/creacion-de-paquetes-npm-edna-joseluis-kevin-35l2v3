@@ -1,5 +1,6 @@
-# Práctica 8: Creación de Paquetes NPM y Strategy Pattern
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3)
 
+# Práctica 8: Creación de Paquetes NPM y Strategy Pattern
 
 ## Descripción
 

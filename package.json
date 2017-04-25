@@ -4,7 +4,12 @@
   "description": "ull-shape",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "documentation build index.js -f html -o docs"
+=======
     "test": "./node_modules/mocha/bin/mocha --require should"
+>>>>>>> 4c576c488f93c76418988d98f0f7993f27885a9a
   },
   "repository": {
     "type": "git",

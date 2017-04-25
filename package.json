@@ -1,0 +1,24 @@
+{
+  "name": "@ull-edna-joseluis-kevin-35l2/ull-shape",
+  "version": "1.0.0",
+  "description": "ull-shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3.git"
+  },
+  "author": "kevin-joseluis-edna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3#readme",
+  "dependencies": {
+    "gulp-shell": "^0.6.3",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}

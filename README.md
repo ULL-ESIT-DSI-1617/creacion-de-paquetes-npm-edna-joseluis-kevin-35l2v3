@@ -35,6 +35,9 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
 * [Apuntes: Pruebas. Should](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/apuntes/pruebas/mocha.html#shouldl)
 * [Apuntes: Integración Contínua. Travis](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/apuntes/pruebas/travis.html)
 
+## Documentación
+
+* [Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3/)
 
 ## Módulos complementarios
 

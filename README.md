@@ -40,11 +40,17 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
 
 * [Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3/)
 
-## Módulos complementarios
+## Módulos complementarios (Repositorios)
 
 * [Triangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle)
 * [Square](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square)
 * [Rectangle]()
+
+## Paquetes npm
+
+* [Triangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-triangle)
+* [Square](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-square)
+* [Rectangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-rectangle)
 
 ## Badge Travis
 

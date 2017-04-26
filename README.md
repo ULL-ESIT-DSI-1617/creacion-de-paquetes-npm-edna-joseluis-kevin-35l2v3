@@ -43,7 +43,7 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
 ## Módulos complementarios
 
 * [Triangle]()
-* [Square]()
+* [Square](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-square)
 * [Rectangle]()
 
 ## Asignatura DSI ULL

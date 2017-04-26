@@ -48,6 +48,7 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
 
 ## Paquetes npm
 
+* [Shape](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape)
 * [Triangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-triangle)
 * [Square](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-square)
 * [Rectangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-rectangle)

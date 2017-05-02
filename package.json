@@ -1,6 +1,6 @@
 {
   "name": "@ull-edna-joseluis-kevin-35l2/ull-shape",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin": {
     "get-area": "./bin/get-area.js"
   },
@@ -15,6 +15,17 @@
     "url": "git@github.com:ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3.git"
   },
   "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "contributors": [
+    {
+      "name": "Edna Liliana Galiano Camacho"
+    },
+    {
+      "name": "José Luis Doblado González"
+    },
+    {
+      "name": "Kevin Estévez Expósito"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3/issues"
